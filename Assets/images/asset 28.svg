@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="dash-left" width="675" height="206">
+					<g fill="none" stroke-width="2">
+					<path class="dashed1" stroke="rgba(17, 17, 17, 0.3)" stroke-dasharray="6, 6" stroke-linecap="butt" stroke-linejoin="miter" d="M3.000,0.995 L3.000,100.997 L673.000,101.994 L673.000,207.995"/>
+					<path class="dashed2" stroke="white" stroke-dasharray="6, 6" stroke-linecap="butt" stroke-linejoin="miter" d="M3.000,0.995 L3.000,100.997 L673.000,101.994 L673.000,207.995"/>
+					</g>
+					</svg>
